@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thearfa99
+- 👋 Hi, I’m Arfa
 - 👀 I’m interested in all things tech
 
 <!---
